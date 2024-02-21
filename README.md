@@ -5,6 +5,8 @@ Open folder in VS Code
 
 Open Terminal
 
+Upon first use, run ```npm install yarn```
+
 Use the command ```npx expo start```
 
 ## On IPhone

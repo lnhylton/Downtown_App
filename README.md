@@ -5,7 +5,7 @@ Open folder in VS Code
 
 Open Terminal
 
-Upon first use, run ```npm install yarn```
+Upon first use, run ```npm i```
 
 Use the command ```npx expo start```
 

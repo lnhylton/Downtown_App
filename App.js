@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import LocationTracker from './LocationTracker';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Test</Text>
+      <LocatiogitnTracker/>
       <StatusBar style="auto" />
     </View>
   );
